@@ -1,5 +1,9 @@
 
 Students will learn how to:
 1. Create & use Git repositories
-2. Analyze and display NExtstrain data
+2. Analyze and display NExtstrain dat
+
+
+to really commit: git push -u origin main
+
 

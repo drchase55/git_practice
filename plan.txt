@@ -1,5 +1,9 @@
 
-Students will learn how to:
-1. Create & use Git repositories
-2. Analyze and display NExtstrain data
+Students (Faculty, students, researchers) will learn:
+1. Navigate github to use the Sandbox
+2. Why-for and what-for git
+3. Create a secure Git repostitory
+4. Use Github as a repository of data and methods
+5. Use Git in the command line to commit revisions
+6. Advanced Git use & functions
 

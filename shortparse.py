@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+# turns 80character lines to a single string from a FASTA file[O
 from collections import defaultdict
 
 d = defaultdict(str)
